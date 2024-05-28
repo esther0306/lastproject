@@ -12,4 +12,4 @@
 +방기
 **봉기**
 __농민__
-![이미지].(https://github.com/esther0306/lastproject/blob/main/%EC%9B%90%EB%B3%B8.jpg)
+![이미지](https://github.com/esther0306/lastproject/blob/main/%EC%9B%90%EB%B3%B8.jpg)
